@@ -1,2 +1,2 @@
 # password-gen
-My First Project
+Completely made from scratch
